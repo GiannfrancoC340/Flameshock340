@@ -1,2 +1,2 @@
-# Flameshock340
+# About me
 My personal repository.
